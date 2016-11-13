@@ -1,0 +1,1 @@
+# aigamo_area_extraction
